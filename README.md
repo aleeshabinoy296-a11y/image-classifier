@@ -67,3 +67,5 @@ This model is trained on ImageNet, which contains real-world photos across 1000 
 - Try a different model from Hugging Face's model hub and compare accuracy
 - Add a confidence threshold warning when the model isn't sure about its prediction
 - Deploy as a mobile-friendly app
+
+Made by Aleesha Binoy — BCA Data Science & AI
