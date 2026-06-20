@@ -68,4 +68,6 @@ This model is trained on ImageNet, which contains real-world photos across 1000 
 - Add a confidence threshold warning when the model isn't sure about its prediction
 - Deploy as a mobile-friendly app
 
+Live app:  [https://image-classifier-cwqjnanatunpavhvamgjis.streamlit.app/]
+
 Made by Aleesha Binoy — BCA Data Science & AI
