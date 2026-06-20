@@ -4,9 +4,9 @@ A web app that identifies what's in a photo using a pre-trained Vision Transform
 
 ## Demo
 
-![App screenshot](screenshot.png)
+![App screenshot](https://1drv.ms/i/c/7f1d4d3f6224d2ee/IQDV2fjaCCslRZ8AE2cEJ2EbAaSDQ_o_DNltk9o6C0o2gN8?e=xhutGg)
 
-Live app: [Add your deployed Streamlit link here once deployed]
+Live app: [https://image-classifier-cwqjnanatunpavhvamgjis.streamlit.app/]
 
 ## What it does
 
@@ -68,6 +68,5 @@ This model is trained on ImageNet, which contains real-world photos across 1000 
 - Add a confidence threshold warning when the model isn't sure about its prediction
 - Deploy as a mobile-friendly app
 
-Live app:  [https://image-classifier-cwqjnanatunpavhvamgjis.streamlit.app/]
 
 Made by Aleesha Binoy — BCA Data Science & AI
